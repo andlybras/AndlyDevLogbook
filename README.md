@@ -33,3 +33,4 @@ To keep the content organized and scalable, I've adopted a hierarchical folder s
 * **[01 - Essential Tools](./01%20-%20Essential%20Tools/)**  
     * **[01.01 - Markdown](./01%20-%20Essential%20Tools/01.01%20-%20Markdown/)**  
         * [01.01.01 - markdown.net.br](./01%20-%20Essential%20Tools/01.01%20-%20Markdown/01.01.01%20-%20markdown.net.br/)  
+        * [01.01.02 - The Markdown Guide - Matt Cone](./01%20-%20Essential%20Tools/01.01%20-%20Markdown/01.01.02%20-%20The%20Markdown%20Guide%20-%20Matt%20Cone/)

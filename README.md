@@ -28,6 +28,30 @@ To keep the content organized and scalable, I've adopted a hierarchical folder s
      
 3.  **Level 3 (Study Source):** The second subfolder is dedicated to a specific study source (a website, book, course, etc.). This is where the notes, code, and exercises related to that source will be stored.  
   
+## ⚠️ Nota sobre Arquivos Grandes (Git LFS)
+  
+Este repositório utiliza o **Git LFS (Large File Storage)** para gerenciar arquivos grandes, como os PDFs de livros e materiais de estudo.
+  
+Para clonar este repositório e baixar os arquivos de estudo corretamente, é **essencial** que você tenha o Git LFS instalado na sua máquina **antes** de executar o `git clone`.
+  
+1.  Instale o Git LFS (siga as instruções em [git-lfs.github.com](https://git-lfs.github.com/)).
+2.  Execute `git lfs install` no seu terminal (só precisa ser feito uma vez por máquina).
+3.  Agora, clone o repositório normalmente: `git clone https://github.com/andlybras/AndlyDevLogbook.git`
+  
+Se você já clonou o repositório e está vendo apenas arquivos de texto pequenos (ponteiros) no lugar dos PDFs, execute `git lfs pull` para baixar os arquivos corretos.
+  
+## ⚠️ Note on Large Files (Git LFS)
+  
+This repository uses **Git LFS (Large File Storage)** to manage large files, such as PDF books and study materials.
+  
+To clone this repository and download the study files correctly, it is **essential** that you have Git LFS installed on your machine **before** running `git clone`.
+  
+1.  Install Git LFS (follow the instructions at [git-lfs.github.com](https://git-lfs.github.com/)).
+2.  Run `git lfs install` in your terminal (only needs to be done once per machine).
+3.  Now, clone the repository normally: `git clone https://github.com/andlybras/AndlyDevLogbook.git`
+  
+If you have already cloned the repository and are seeing only small text files (pointers) instead of the PDFs, run `git lfs pull` to download the correct files.  
+  
 ## 📚 Sumário de Estudos  
   
 * **[01 - Essential Tools](./01%20-%20Essential%20Tools/)**  

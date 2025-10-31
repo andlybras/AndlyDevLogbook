@@ -37,3 +37,8 @@ To keep the content organized and scalable, I've adopted a hierarchical folder s
 * **[02 - Programming Fundamentals](./02%20-%20Programming%20Fundamentals/)**  
     * **[02.01 - Algorithms and Data Structures](./02%20-%20Programming%20Fundamentals/02.01%20-%20Algorithms%20and%20Data%20Structures/)**
         * [02.01.01 - Entendendo Algoritmos - Aditya Y. Bhargava](./02%20-%20Programming%20Fundamentals/02.01%20-%20Algorithms%20and%20Data%20Structures/02.01.01%20-%20Entendendo%20Algoritmos%20-%20Aditya%20Y.%20Bhargava/)
+        * [02.01.02 - Algoritmos - Teoria e Prática (Thomas H. Cormen)](./02%20-%20Programming%20Fundamentals/02.01%20-%20Algorithms%20and%20Data%20Structures/02.01.02%20-%20Algoritmos%20-%20Teoria%20e%20Prática%20(Thomas%20H.%20Cormen)/)
+* **[03 - Backend Programming Languages](./03%20-%20Backend%20Programming%20Languages/)**  
+    * **[03.01 - Python](./03%20-%20Backend%20Programming%20Languages/03.01%20-%20Python/)**  
+        * [03.01.01 - Think Python - Allen B. Downey](./03%20-%20Backend%20Programming%20Languages/03.01%20-%20Python/03.01.01%20-%20Think%20Python%20-%20Allen%20B.%20Downey/)  
+        * [03.01.02 - Automatize Tarefas Maçantes com Python - Al Sweigart](./03%20-%20Backend%20Programming%20Languages/03.01%20-%20Python/03.01.02%20-%20Automatize%20Tarefas%20Ma%C3%A7antes%20com%20Python%20-%20Al%20Sweigart/)
